@@ -25,3 +25,22 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.home-bg {
+  width: 100%;
+  height: 100dvh;
+  background: linear-gradient(0deg, rgba(84, 78, 82, 0.3), rgba(123, 121, 122, 0.3)), url('../public/images/thumbnail-world.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+
+.bg-about {
+  width: 100%;
+  height: 100dvh;
+  background: linear-gradient(0deg, #b71c1ce8, #b71c1ce2), url('../public/images/noise.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

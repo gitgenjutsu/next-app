@@ -1,6 +1,4 @@
 import Navbar from "./components/Navbar";
-// import Image from "next/image";
-// import "../public/anime_trailer_mobile.jpg";
 import "./index.css";
 
 export default function Home() {

@@ -11,7 +11,7 @@ export default function About() {
         <div className="text-box text-black w-full">
           <h3>About me</h3>
           <p>
-            Hello! I'm Mohd Wasim, a passionate and dedicated Software Engineer
+            Hello! I&apos;m Mohd Wasim, a passionate and dedicated Software Engineer
             specializing in frontend development. With years of professional
             experience, I have honed my skills in JavaScript and its relevant
             frameworks, particularly in the React-Redux ecosystem. Currently, I
